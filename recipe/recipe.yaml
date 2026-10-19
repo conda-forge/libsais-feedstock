@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   name: libsais
-  version: "2.10.4"
+  version: "2.12.0"
 
 package:
   name: ${{ name }}
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://github.com/IlyaGrebnov/libsais/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 94aa88f9e29f8812214ecfa6b55f5dca14c7d8a427409c062f734a61ca4c6931
+  sha256: 011dd352ad3792483b6a84dfa1fa191a78f310b536773315d278aaf7c61e66b3
 
 build:
   number: 0
