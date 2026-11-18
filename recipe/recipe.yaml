@@ -72,7 +72,7 @@ about:
 
     The library is implemented in C99 and provides optional OpenMP support for
     multi-core parallel construction.
-  license: Apache-2.0
+  license: Apache-2.0 WITH LLVM-exception
   license_family: Apache
   license_file: LICENSE
   documentation: https://github.com/IlyaGrebnov/libsais
